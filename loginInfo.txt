@@ -1,0 +1,4 @@
+USERNAME | PASSWORD | PRIVILEGES
+shukai|lin|false
+william|tan|true
+brandon|lin|true

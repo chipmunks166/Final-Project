@@ -1,0 +1,5 @@
+BOOK | AUTHOR FIRST NAME | AUTHOR LAST NAME | AVAILABILITY
+hi|shukai|lin|true
+yes|brandon|lin|false
+no|william|tan|true
+bob|eric|chen|true
